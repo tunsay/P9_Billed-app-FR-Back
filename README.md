@@ -26,6 +26,12 @@ npm install
 npm run run:dev
 ```
 
+Régler l'erreur du lancement du serveur:
+
+```
+npm i --save cross-env
+```
+
 ### Accéder à l'API :
 
 L'api est accessible sur le port `5678` en local, c'est à dire `http://localhost:5678`
